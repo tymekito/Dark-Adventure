@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 888f27a65135e9f4487edf93b4b156c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5916791070663293124
+    second: GreenDragon_0
+  - first:
+      213: -8896377479734546081
+    second: GreenDragon_1
+  - first:
+      213: -2917983658861364627
+    second: GreenDragon_2
+  - first:
+      213: 7692421865558738897
+    second: GreenDragon_3
+  - first:
+      213: 2573893575402394387
+    second: GreenDragon_4
+  - first:
+      213: -1572974500622020947
+    second: GreenDragon_5
+  - first:
+      213: 7935231273750104928
+    second: GreenDragon_6
+  - first:
+      213: 3456249876934446246
+    second: GreenDragon_0
+  - first:
+      213: -2264668852400571288
+    second: GreenDragon_1
+  - first:
+      213: 4644467337836304506
+    second: GreenDragon_2
+  - first:
+      213: -1751912599582683127
+    second: GreenDragon_3
+  - first:
+      213: 1044188917524016855
+    second: GreenDragon_4
+  - first:
+      213: -8614429524191964331
+    second: GreenDragon_5
+  - first:
+      213: 7769934873996744454
+    second: GreenDragon_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenDragon_0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 355
+        width: 763
+        height: 986
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4aa973f017ff20800000000000000
+      internalID: 3456249876934446246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_1
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1121
+        width: 142
+        height: 148
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb5ce6da74290e0800000000000000
+      internalID: -2264668852400571288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_2
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1121
+        width: 143
+        height: 148
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7813a2bf66747040800000000000000
+      internalID: 4644467337836304506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 713
+        width: 420
+        height: 275
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d750d5c4ffa7e0800000000000000
+      internalID: -1751912599582683127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_4
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 751
+        width: 437
+        height: 275
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2b63c944bd7e00800000000000000
+      internalID: 1044188917524016855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_5
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 497
+        width: 137
+        height: 181
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55396eb2df5637880800000000000000
+      internalID: -8614429524191964331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenDragon_6
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 479
+        width: 24
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607de7cd99a54db60800000000000000
+      internalID: 7769934873996744454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

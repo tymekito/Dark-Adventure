@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Collectable Ammo
+  - Collectable Health
+  - SpawnPoint
+  - Rooms
+  - Boost
+  - RoomsTemplate
+  - Walls
+  - Boss
+  - Doors
+  - Keys
+  - Health Bar
+  - Health Bar pivot
+  - Mixture
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Fx
+  - Camera
+  - Minmap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Minmap
+    uniqueID: 4014737157
+    locked: 0

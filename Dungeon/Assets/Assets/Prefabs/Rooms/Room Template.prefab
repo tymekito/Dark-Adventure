@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6989897540419367983
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6989897540419367969}
+  - component: {fileID: 6989897540419367968}
+  m_Layer: 0
+  m_Name: Room Template
+  m_TagString: Rooms
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6989897540419367969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6989897540419367983}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.22, y: 0.91, z: -2.1535475}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6989897540419367968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6989897540419367983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5254b92abd4b4b34b91e03ff732aafc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leftRooms:
+  - {fileID: 6602696835309424422, guid: bc503d2c06b0ac44c90e29db367eee99, type: 3}
+  - {fileID: 8899905719208960134, guid: 15468d627e25789449893cc233477e97, type: 3}
+  rightRooms:
+  - {fileID: 1758166414194545611, guid: 8ca67bfe4a93740479715236ca149e5e, type: 3}
+  - {fileID: 8899905719208960134, guid: 15468d627e25789449893cc233477e97, type: 3}
+  - {fileID: 2661767723555375869, guid: f17667f53e8fad44cacbce84780b2c7e, type: 3}
+  - {fileID: 3561758814093404829, guid: d5f5b83277f94154ca7aeaccad28fd59, type: 3}
+  topRooms:
+  - {fileID: 2759507562131112583, guid: 1ddf3046f063f5141bd9e93f4a25108e, type: 3}
+  - {fileID: 2661767723555375869, guid: f17667f53e8fad44cacbce84780b2c7e, type: 3}
+  bottomRooms:
+  - {fileID: 3561758814093404829, guid: d5f5b83277f94154ca7aeaccad28fd59, type: 3}
+  closeRooms: {fileID: 0}
+  rooms: []
