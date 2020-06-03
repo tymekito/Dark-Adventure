@@ -1,5 +1,5 @@
 # Dark-Adventure
-## Simply WebGL game made in Unity.The goal of the game is to defeat two bosses and score the highest number of points.
+## Simply WebGL game made with Unity. The goal of the game is to defeat two bosses and score the highest number of points.
 ### Menu
 ![photo1](Dungeon/Photos/screen01.png)
 ### First Level
