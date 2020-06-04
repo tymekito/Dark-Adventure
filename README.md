@@ -3,7 +3,7 @@
 ### Menu
 ![photo1](Dungeon/Photos/screen01.png)
 ### First Level
-![photo2](Dungeon/Photos/screen02.png)
+![photo2](Dungeon/Photos/screen03.png)
 ### Boss Fight
-![photo3](Dungeon/Photos/screen03.png)
+![photo3](Dungeon/Photos/screen02.png)
 ### IF you wanna play go to Build folder and download Build 3.0 zip folder
