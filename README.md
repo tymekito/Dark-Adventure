@@ -6,4 +6,4 @@
 ![photo2](Dungeon/Photos/screen03.png)
 ### Boss Fight
 ![photo3](Dungeon/Photos/screen02.png)
-### IF you wanna play go to Build folder and download Build 3.0 zip folder
+### IF you wanna play go to Build folder and download Build 3.0.
